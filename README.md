@@ -1,4 +1,4 @@
-# MVCVAE
+# DMVCVAE
 
 This is a Keras implementation of “Shared Generative Latent Representation Learning for Multi-view Clustering”
 
